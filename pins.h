@@ -12,8 +12,7 @@
 #define	XC_HEADER_TEMPLATE_H
 
 #include <xc.h>
-#define TRIGGER_PIN LATAbits.LATA0
-#define ECHO_PIN PORTAbits.RA1
+
 
 #ifdef	__cplusplus
 extern "C" {
